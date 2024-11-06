@@ -1,2 +1,8 @@
 # Class-Project-Dashboard
-This is the documentation of  what I was able to do as class Project while learning Data Analysis with the Incubator Hub. 
+
+ ### Project Title: HR Data Analysis
+
+ ### Project Overview
+ This Class project Data Analysis aims to generate insight into the employees'
+ performance over the years. By analysing the various parameters in the data 
+ received I seek
