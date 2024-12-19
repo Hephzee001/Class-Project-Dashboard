@@ -43,7 +43,12 @@ This phase involves the exploring of the Data to answer some questions about the
 - What is the Summary of Current Employees by Age band and Gender
 - What is the Total Number of Attrition Count
 - What is the Summary of Attrition by Gender
-- What is the Summary of Attrition Count by Department 
+- What is the Summary of Attrition Count by Department
+
+ ### Data Visualization
+
+ 
+   
   
 
   
