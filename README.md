@@ -46,7 +46,7 @@ This phase involves the exploring of the Data to answer some questions about the
 - What is the Summary of Attrition Count by Department
 
  ### Data Visualization
- ![Class-Project Screenshot  2](https://github.com/user-attachments/assets/b66fdf02-e3d9-4132-8fca-9f71719c5e09)
+ 
 
  
 
